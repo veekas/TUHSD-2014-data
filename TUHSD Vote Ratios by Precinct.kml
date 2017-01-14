@@ -1,0 +1,1260 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>TUHSD Vote Ratios by Precinct</name>
+		<Style id='Style2-polygon-1'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf997d5d</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-1-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf997d5d</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-1-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-1</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-1-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Balboa</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Balboa<br>
+<b>Shrivastava:</b> 26.24%<br>
+<b>Schmoll:</b> 20.56%<br>
+<b>McClenahan:</b> 19.56%<br>
+<b>Klype:</b> 15.47%<br>
+<b>Hodge:</b> 22.54%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-1-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>26.24%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>20.56%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>19.56%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>15.47%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>22.54%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.926274,33.400084,0.0 -111.926335,33.39292,0.0 -111.900519,33.39306,0.0 -111.9005,33.407451,0.0 -111.909104,33.407512,0.0 -111.909056,33.404228,0.0 -111.913539,33.404181,0.0 -111.913649,33.402663,0.0 -111.915301,33.402664,0.0 -111.915969,33.4023,0.0 -111.915968,33.402248,0.0 -111.915282,33.401107,0.0 -111.916257,33.401108,0.0 -111.918616,33.400284,0.0 -111.926274,33.400084,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-2'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf785229</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-2-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf785229</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-2-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-2</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-2-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Cairo</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Cairo<br>
+<b>Shrivastava:</b> 31.53%<br>
+<b>Schmoll:</b> 17.75%<br>
+<b>McClenahan:</b> 17.46%<br>
+<b>Klype:</b> 12.04%<br>
+<b>Hodge:</b> 25.27%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-2-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>31.53%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>17.75%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>17.46%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>12.04%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>25.27%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.939955,33.407315,0.0 -111.939667,33.400087,0.0 -111.939566,33.392931,0.0 -111.926287,33.393028,0.0 -111.926314,33.400288,0.0 -111.926404,33.40757,0.0 -111.939955,33.407315,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-3'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfa88f75</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-3-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfa88f75</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-3-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-3</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-3-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Darrow</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Darrow<br>
+<b>Shrivastava:</b> 23.88%<br>
+<b>Schmoll:</b> 11.36%<br>
+<b>McClenahan:</b> 21.32%<br>
+<b>Klype:</b> 15.40%<br>
+<b>Hodge:</b> 20.54%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-3-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>23.88%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>11.36%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>21.32%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>15.40%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>20.54%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.978218,33.421865,0.0 -111.978265,33.411027,0.0 -111.976589,33.410768,0.0 -111.974944,33.410336,0.0 -111.973237,33.409651,0.0 -111.972103,33.408931,0.0 -111.970653,33.40935,0.0 -111.969011,33.409056,0.0 -111.966825,33.40805,0.0 -111.964739,33.40747,0.0 -111.958217,33.407469,0.0 -111.952102,33.407426,0.0 -111.952153,33.414626,0.0 -111.952189,33.421892,0.0 -111.978218,33.421865,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-4'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfded5cb</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-4-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfded5cb</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-4-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-4</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-4-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Diablo</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Diablo<br>
+<b>Shrivastava:</b> 15.17%<br>
+<b>Schmoll:</b> 15.91%<br>
+<b>McClenahan:</b> 27.30%<br>
+<b>Klype:</b> 16.11%<br>
+<b>Hodge:</b> 20.82%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-4-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>15.17%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>15.91%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>27.30%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>16.11%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>20.82%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.978216,33.410937,0.0 -111.978401,33.39284,0.0 -111.978035,33.392733,0.0 -111.978128,33.376704,0.0 -111.977491,33.376663,0.0 -111.976661,33.376912,0.0 -111.975376,33.376622,0.0 -111.973494,33.377204,0.0 -111.971958,33.377329,0.0 -111.970579,33.377455,0.0 -111.96872,33.377163,0.0 -111.967187,33.376913,0.0 -111.966969,33.38947,0.0 -111.967306,33.390385,0.0 -111.967334,33.401611,0.0 -111.967948,33.404146,0.0 -111.968978,33.405941,0.0 -111.970096,33.40742,0.0 -111.9717,33.408734,0.0 -111.973663,33.40987,0.0 -111.975905,33.410539,0.0 -111.978216,33.410937,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-5'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfc2b19e</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-5-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfc2b19e</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-5-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-5</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-5-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Dwight</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Dwight<br>
+<b>Shrivastava:</b> 19.73%<br>
+<b>Schmoll:</b> 20.61%<br>
+<b>McClenahan:</b> 24.84%<br>
+<b>Klype:</b> 17.01%<br>
+<b>Hodge:</b> 19.00%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-5-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>19.73%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>20.61%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>24.84%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>17.01%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>19.00%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.966968,33.389528,0.0 -111.967055,33.378143,0.0 -111.963269,33.378112,0.0 -111.963296,33.378348,0.0 -111.943865,33.378229,0.0 -111.943583,33.392889,0.0 -111.951945,33.392854,0.0 -111.952007,33.391228,0.0 -111.952574,33.389489,0.0 -111.952272,33.387728,0.0 -111.952342,33.385691,0.0 -111.954571,33.385634,0.0 -111.956984,33.386369,0.0 -111.959763,33.387333,0.0 -111.962114,33.387869,0.0 -111.964794,33.388252,0.0 -111.966968,33.389528,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-6'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfd7cbbf</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-6-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfd7cbbf</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-6-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-6</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-6-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Elwood</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Elwood<br>
+<b>Shrivastava:</b> 16.38%<br>
+<b>Schmoll:</b> 18.42%<br>
+<b>McClenahan:</b> 19.34%<br>
+<b>Klype:</b> 21.53%<br>
+<b>Hodge:</b> 23.95%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-6-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>16.38%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>18.42%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>19.34%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>21.53%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>23.95%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.978484,33.400117,0.0 -111.979226,33.399906,0.0 -111.986319,33.39981,0.0 -111.986504,33.392845,0.0 -111.995484,33.392715,0.0 -111.995508,33.383012,0.0 -111.994064,33.383779,0.0 -111.992488,33.384086,0.0 -111.990766,33.383929,0.0 -111.988829,33.383775,0.0 -111.986794,33.384124,0.0 -111.986357,33.383506,0.0 -111.98694,33.38282,0.0 -111.986886,33.381923,0.0 -111.983079,33.382032,0.0 -111.983074,33.381736,0.0 -111.982681,33.381736,0.0 -111.982721,33.378198,0.0 -111.978194,33.378265,0.0 -111.978058,33.392743,0.0 -111.978547,33.392789,0.0 -111.978437,33.39478,0.0 -111.978375,33.396802,0.0 -111.978388,33.398073,0.0 -111.978355,33.399164,0.0 -111.978484,33.400117,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-7'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb6a28b</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-7-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb6a28b</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-7-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-7</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-7-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Escalante</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Escalante<br>
+<b>Shrivastava:</b> 21.60%<br>
+<b>Schmoll:</b> 17.31%<br>
+<b>McClenahan:</b> 23.81%<br>
+<b>Klype:</b> 15.45%<br>
+<b>Hodge:</b> 21.02%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-7-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>21.60%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>17.31%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>23.81%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>15.45%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>21.02%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.909073,33.422017,0.0 -111.909061,33.407576,0.0 -111.891909,33.407577,0.0 -111.891902,33.422096,0.0 -111.909073,33.422017,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-8'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb8a48f</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-8-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb8a48f</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-8-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-8</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-8-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Hollis</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Hollis<br>
+<b>Shrivastava:</b> 21.29%<br>
+<b>Schmoll:</b> 18.49%<br>
+<b>McClenahan:</b> 21.60%<br>
+<b>Klype:</b> 16.08%<br>
+<b>Hodge:</b> 21.68%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-8-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>21.29%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>18.49%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>21.60%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>16.08%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>21.68%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.926292,33.392857,0.0 -111.926516,33.38283,0.0 -111.92776,33.380906,0.0 -111.928545,33.379733,0.0 -111.928721,33.378228,0.0 -111.928723,33.378276,0.0 -111.917408,33.378371,0.0 -111.917331,33.383472,0.0 -111.916016,33.383422,0.0 -111.916076,33.383472,0.0 -111.914762,33.38387,0.0 -111.9092,33.383868,0.0 -111.909197,33.392952,0.0 -111.926292,33.392857,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-9'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf957757</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-9-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf957757</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-9-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-9</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-9-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Hudson</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Hudson<br>
+<b>Shrivastava:</b> 26.93%<br>
+<b>Schmoll:</b> 18.49%<br>
+<b>McClenahan:</b> 18.70%<br>
+<b>Klype:</b> 17.50%<br>
+<b>Hodge:</b> 21.44%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-9-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>26.93%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>18.49%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>18.70%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>17.50%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>21.44%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.939951,33.42207,0.0 -111.939916,33.414833,0.0 -111.934856,33.414728,0.0 -111.934832,33.414163,0.0 -111.930696,33.414058,0.0 -111.930418,33.411058,0.0 -111.909107,33.411099,0.0 -111.909137,33.422107,0.0 -111.939951,33.42207,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-10'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf8e6e4c</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-10-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf8e6e4c</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-10-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-10</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-10-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Jentilly</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Jentilly<br>
+<b>Shrivastava:</b> 28.02%<br>
+<b>Schmoll:</b> 14.82%<br>
+<b>McClenahan:</b> 18.86%<br>
+<b>Klype:</b> 14.93%<br>
+<b>Hodge:</b> 22.56%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-10-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>28.02%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>14.82%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>18.86%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>14.93%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>22.56%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.939852,33.414782,0.0 -111.939795,33.407364,0.0 -111.926309,33.407609,0.0 -111.926209,33.400233,0.0 -111.918959,33.400186,0.0 -111.915387,33.40114,0.0 -111.915965,33.402193,0.0 -111.915138,33.402674,0.0 -111.91355,33.402674,0.0 -111.913531,33.404125,0.0 -111.909159,33.40427,0.0 -111.909109,33.410998,0.0 -111.930476,33.411008,0.0 -111.930758,33.414109,0.0 -111.934886,33.414009,0.0 -111.934915,33.414676,0.0 -111.939852,33.414782,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-11'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf7b562d</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-11-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf7b562d</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-11-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-11</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-11-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Mitchell Park</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Mitchell Park<br>
+<b>Shrivastava:</b> 31.11%<br>
+<b>Schmoll:</b> 14.52%<br>
+<b>McClenahan:</b> 19.88%<br>
+<b>Klype:</b> 12.96%<br>
+<b>Hodge:</b> 24.07%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-11-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>31.11%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>14.52%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>19.88%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>12.96%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>24.07%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.952019,33.421943,0.0 -111.952152,33.407426,0.0 -111.939783,33.407381,0.0 -111.939913,33.421972,0.0 -111.952019,33.421943,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-12'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfab947a</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-12-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfab947a</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-12-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-12</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-12-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Palmer</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Palmer<br>
+<b>Shrivastava:</b> 23.33%<br>
+<b>Schmoll:</b> 14.93%<br>
+<b>McClenahan:</b> 22.08%<br>
+<b>Klype:</b> 14.60%<br>
+<b>Hodge:</b> 22.82%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-12-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>23.33%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>14.93%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>22.08%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>14.60%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>22.82%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.943575,33.392903,0.0 -111.943779,33.378206,0.0 -111.928691,33.378304,0.0 -111.928576,33.379608,0.0 -111.926589,33.382599,0.0 -111.926325,33.392998,0.0 -111.943575,33.392903,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-13'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf9f8567</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-13-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf9f8567</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-13-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-13</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-13-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Rio Salado</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Rio Salado<br>
+<b>Shrivastava:</b> 25.24%<br>
+<b>Schmoll:</b> 16.73%<br>
+<b>McClenahan:</b> 20.50%<br>
+<b>Klype:</b> 15.64%<br>
+<b>Hodge:</b> 20.26%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-13-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>25.24%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>16.73%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>20.50%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>15.64%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>20.26%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.978337,33.436602,0.0 -111.978162,33.422021,0.0 -111.939884,33.422009,0.0 -111.939892,33.429591,0.0 -111.940576,33.431471,0.0 -111.941384,33.433196,0.0 -111.942615,33.435653,0.0 -111.949714,33.436344,0.0 -111.95355,33.436567,0.0 -111.956434,33.436788,0.0 -111.958907,33.437478,0.0 -111.961209,33.438009,0.0 -111.961357,33.436268,0.0 -111.978337,33.436602,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-14'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfdfd7cd</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-14-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfdfd7cd</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-14-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-14</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-14-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Riverview</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Riverview<br>
+<b>Shrivastava:</b> 14.97%<br>
+<b>Schmoll:</b> 18.89%<br>
+<b>McClenahan:</b> 24.37%<br>
+<b>Klype:</b> 20.30%<br>
+<b>Hodge:</b> 18.78%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-14-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>14.97%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>18.89%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>24.37%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>20.30%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>18.78%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.882803,33.429453,0.0 -111.88277,33.422257,0.0 -111.856396,33.422202,0.0 -111.856253,33.429438,0.0 -111.882803,33.429453,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-15'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb9a590</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-15-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb9a590</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-15-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-15</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-15-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Rolling Hills</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Rolling Hills<br>
+<b>Shrivastava:</b> 21.15%<br>
+<b>Schmoll:</b> 18.01%<br>
+<b>McClenahan:</b> 19.49%<br>
+<b>Klype:</b> 17.39%<br>
+<b>Hodge:</b> 22.81%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-15-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>21.15%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>18.01%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>19.49%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>17.39%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>22.81%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.96103,33.449039,0.0 -111.961071,33.437994,0.0 -111.954994,33.436689,0.0 -111.935919,33.435063,0.0 -111.928943,33.436171,0.0 -111.926237,33.436261,0.0 -111.909619,33.436109,0.0 -111.909199,33.451302,0.0 -111.915673,33.451352,0.0 -111.915841,33.44771,0.0 -111.917777,33.44766,0.0 -111.917745,33.451304,0.0 -111.926237,33.451347,0.0 -111.940171,33.451056,0.0 -111.93961,33.450028,0.0 -111.941424,33.447027,0.0 -111.950114,33.446244,0.0 -111.952075,33.448573,0.0 -111.953954,33.444688,0.0 -111.954566,33.444889,0.0 -111.954736,33.448372,0.0 -111.955709,33.448423,0.0 -111.955919,33.448984,0.0 -111.96103,33.449039,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-16'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf9a7d5e</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-16-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bf9a7d5e</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-16-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-16</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-16-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Shalimar</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Shalimar<br>
+<b>Shrivastava:</b> 26.15%<br>
+<b>Schmoll:</b> 19.19%<br>
+<b>McClenahan:</b> 21.79%<br>
+<b>Klype:</b> 13.33%<br>
+<b>Hodge:</b> 23.66%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-16-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>26.15%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>19.19%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>21.79%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>13.33%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>23.66%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.900342,33.407626,0.0 -111.900528,33.393051,0.0 -111.880087,33.393041,0.0 -111.882524,33.396819,0.0 -111.885307,33.400932,0.0 -111.888362,33.407664,0.0 -111.900342,33.407626,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-17'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb5a08a</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-17-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb5a08a</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-17-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-17</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-17-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Tempe</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Tempe<br>
+<b>Shrivastava:</b> 21.77%<br>
+<b>Schmoll:</b> 14.75%<br>
+<b>McClenahan:</b> 25.81%<br>
+<b>Klype:</b> 15.32%<br>
+<b>Hodge:</b> 22.58%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-17-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>21.77%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>14.75%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>25.81%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>15.32%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>22.58%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.942795,33.435696,0.0 -111.941102,33.432448,0.0 -111.939972,33.42975,0.0 -111.939964,33.422107,0.0 -111.909133,33.42205,0.0 -111.909126,33.429326,0.0 -111.909565,33.436159,0.0 -111.928158,33.436254,0.0 -111.936039,33.43506,0.0 -111.942795,33.435696,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-18'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb49f89</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-18-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfb49f89</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-18-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-18</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-18-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Twin Buttes</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Twin Buttes<br>
+<b>Shrivastava:</b> 21.89%<br>
+<b>Schmoll:</b> 13.41%<br>
+<b>McClenahan:</b> 20.94%<br>
+<b>Klype:</b> 16.37%<br>
+<b>Hodge:</b> 22.10%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-18-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>21.89%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>13.41%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>20.94%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>16.37%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>22.10%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.972158,33.408936,0.0 -111.96942,33.406613,0.0 -111.967555,33.402911,0.0 -111.967138,33.398981,0.0 -111.967267,33.390492,0.0 -111.966676,33.389295,0.0 -111.96536,33.388391,0.0 -111.962137,33.387813,0.0 -111.959996,33.387395,0.0 -111.957278,33.386487,0.0 -111.955164,33.385816,0.0 -111.95229,33.385668,0.0 -111.952242,33.387243,0.0 -111.952478,33.388512,0.0 -111.952479,33.389532,0.0 -111.952044,33.390976,0.0 -111.951841,33.392877,0.0 -111.939604,33.392953,0.0 -111.939798,33.407402,0.0 -111.964438,33.407478,0.0 -111.965382,33.407477,0.0 -111.966648,33.407946,0.0 -111.968551,33.408918,0.0 -111.970236,33.409308,0.0 -111.972158,33.408936,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+		<Style id='Style2-polygon-19'>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfd8cdc1</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<Style id='Style2-polygon-19-hover'>
+			<LineStyle>
+				<color>ff666666</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>bfd8cdc1</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<text>$[description]</text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='Style2-polygon-19-map'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#Style2-polygon-19</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#Style2-polygon-19-hover</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Placemark>
+			<name>Victory</name>
+			<snippet></snippet>
+			<description><![CDATA[<div class="googft-info-window">
+<b>Precinct Name:</b> Victory<br>
+<b>Shrivastava:</b> 16.17%<br>
+<b>Schmoll:</b> 22.43%<br>
+<b>McClenahan:</b> 22.43%<br>
+<b>Klype:</b> 20.35%<br>
+<b>Hodge:</b> 18.26%
+</div>]]></description>
+			<styleUrl>#Style2-polygon-19-map</styleUrl>
+			<ExtendedData>
+				<Data name='Shrivastava'>
+					<value>16.17%</value>
+				</Data>
+				<Data name='Schmoll'>
+					<value>22.43%</value>
+				</Data>
+				<Data name='McClenahan'>
+					<value>22.43%</value>
+				</Data>
+				<Data name='Klype'>
+					<value>20.35%</value>
+				</Data>
+				<Data name='Hodge'>
+					<value>18.26%</value>
+				</Data>
+			</ExtendedData><Polygon><outerBoundaryIs><LinearRing><coordinates>-111.909537,33.436745,0.0 -111.908996,33.42935,0.0 -111.90905,33.422096,0.0 -111.891779,33.42214,0.0 -111.891887,33.422096,0.0 -111.891786,33.407474,0.0 -111.891893,33.407608,0.0 -111.888363,33.407614,0.0 -111.889007,33.409538,0.0 -111.889007,33.409449,0.0 -111.888683,33.410653,0.0 -111.888629,33.410697,0.0 -111.885311,33.414185,0.0 -111.88199,33.41758,0.0 -111.878561,33.420038,0.0 -111.877161,33.422362,0.0 -111.882726,33.422318,0.0 -111.882767,33.42939,0.0 -111.891833,33.429388,0.0 -111.892136,33.436805,0.0 -111.909537,33.436745,0.0</coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark>
+	</Document>
+</kml>
